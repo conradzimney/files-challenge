@@ -1,5 +1,7 @@
+@import url(http://fonts.googleapis.com/css?family=Droid+Serif);
+
 body {
-    font-family: Helvetica, sans-serif;
+    font-family: "Droid Serif", Helvetica, sans-serif;
     font-size: 18px;
 }
 img {
